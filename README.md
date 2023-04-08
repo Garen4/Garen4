@@ -11,7 +11,7 @@
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
-- :school: I'm currently studing in ... Dr. Ambedker Institute of Technology for Handicapped, Kanpur, India
+- :school: I'm currently studing in ... El Shorouk Academy, Cairo
 - 🔭 I’m currently working on ... Not working
 - 🌱 I’m currently learning ... [ HTML => CSS => Bootstrap => Javascript => TypeScript => Jqurey => React.Js ]
 - 👯 I’m looking to collaborate on ... Any of project
